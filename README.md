@@ -90,4 +90,4 @@ endmodule
 
 
 ## *Result:*
-The code is excecuted successfully.
+The program is verified successfully using the software quartus prime.
